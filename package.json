@@ -1,0 +1,29 @@
+{
+  "name": "game-proj",
+  "version": "1.0.0",
+  "description": "An rpg-platform based browser game",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeflerDev/redesigned-umbrella.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Hefler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeflerDev/redesigned-umbrella/issues"
+  },
+  "homepage": "https://github.com/HeflerDev/redesigned-umbrella#readme",
+  "devDependencies": {
+    "phaser": "^3.24.1",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "jest": "^26.6.2"
+  }
+}
