@@ -1,0 +1,8 @@
+import 'phaser';
+
+const main = () => (() => {
+
+
+
+})();
+
